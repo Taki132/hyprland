@@ -1,0 +1,2 @@
+# Marcron-hyprland
+Config marcron
