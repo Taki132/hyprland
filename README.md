@@ -1,6 +1,6 @@
 <h3 align="center">
 	Macaroni for <a href="https://github.com/hyprwm/hyprland">Hyprland</a>
-    <img src="https://raw.githubusercontent.com/Taki132/hyprland/main/assets/image.png" height="30" width="0px"/>
+    	<img src="https://raw.githubusercontent.com/Taki132/hyprland/main/assets/image.png" height="30" width="0px"/>
 </h3>
 ##  Usage
 1. Clone the repositories
