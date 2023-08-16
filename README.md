@@ -1,7 +1,9 @@
 <h3 align="center">
 	Macaroni for <a href="https://github.com/hyprwm/hyprland">Hyprland</a>
 <h3>
+
 ![image](https://raw.githubusercontent.com/Taki132/hyprland/main/assets/image.png)
+
 #	Usage
 1. Clone the repositories
 ```
